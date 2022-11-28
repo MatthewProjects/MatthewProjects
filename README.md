@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MatthewProjects
 - 👀 I’m interested in HTML and CSS 
-- 🌱 I’m currently learning HTML, CSS, and  a little bit of Javascript
+- 🌱 I’m currently learning HTML, CSS,   a little bit of Javascript, & bits of python
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
