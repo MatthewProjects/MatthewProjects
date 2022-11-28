@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @MatthewProjects
-- 👀 I’m interested in HTML and CSS 
+- 👀 I’m interested in HTML and CSS , Web Dev, QA, game design, game development, software engineering 
 - 🌱 I’m currently learning HTML, CSS,   a little bit of Javascript, & bits of python
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
