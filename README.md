@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @MatthewProjects
-- 👀 I’m interested in HTML and CSS , Web Dev, web design, resposive web dev/design, QA, game design, game development, software engineering . Software Dev
-- 🌱 I’m currently learning HTML, CSS,   a little bit of Javascript, & bits of python
+- 👀 I’m interested in HTML and CSS , Web Dev, web design, resposive web dev/design, QA, game design, game development, software engineering & Software Dev
+- 🌱 I’m currently learning HTML, CSS, a little bit of Javascript, & bits of python
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 I can be reached at mtrought@lesley.edu
 
 <!---
 MatthewProjects/MatthewProjects is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
