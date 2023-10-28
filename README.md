@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @MatthewProjects
-- 👀 I’m interested in HTML and CSS , Web Dev, web design, resposive web dev/design, QA, game design, game development, software engineering & Software Dev
+- 👀 I’m interested in learning more about Web Dev, web design, resposive web dev/design, QA, game design, game development, software engineering & Software Dev
 - 🌱 I’m currently learning HTML, CSS, a little bit of Javascript, & bits of python
 - 💞️ I’m looking to collaborate on ...
 - 📫 I can be reached at mtrought@lesley.edu
